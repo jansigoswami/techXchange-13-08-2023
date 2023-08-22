@@ -2,7 +2,7 @@
 
 **Contributors: Jansi Goswami
 
-**GitHub Repository: [Your GitHub Project Link]**
+**GitHub Repository:https://github.com/jansigoswami/Iris-Flower-Classification
 
 # Project Description
 This Project classifies different species of the Iris flowers
